@@ -1,6 +1,5 @@
 var {Table,Modal,Navbar,Nav,NavItem,DropdownButton,MenuItem}=ReactBootstrap;
 var update=newContext();
-var DateTime=Datetime;
 var host="";
 var isEqual=_.isEqual;// from 'lodash/isEqual';
 var find=_.find;// import find from 'lodash/find';
